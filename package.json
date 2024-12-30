@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-essentials-project",
+  "version": "1.0.0",
+  "description": "1ITF Full Stack Essentials project",
+  "main": "index.js",
+  "keywords": [
+    "Thomas More Kempen",
+    "Full Stack Essentials",
+    "Bootstrap 5 Custom Variables",
+    "1ITF"
+  ],
+  "scripts": {
+    "watch": "cd src && live-server --port=6060"
+  },
+  "type": "module",
+  "devDependencies": {
+
+  }
+}
