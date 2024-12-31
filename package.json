@@ -1,19 +1,29 @@
 {
-  "name": "full-stack-essentials-project",
+  "name": "css-bootstrap-demo-project",
   "version": "1.0.0",
-  "description": "1ITF Full Stack Essentials project",
-  "main": "index.js",
+  "description": "1ITF CSS-Bootstrap Demo Project",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pverhaert/css_bootstrap_demo_project.git"
+  },
   "keywords": [
     "Thomas More Kempen",
     "Full Stack Essentials",
     "Bootstrap 5 Custom Variables",
     "1ITF"
   ],
+  "author": "Patrick Verhaert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pverhaert/css_bootstrap_demo_project/issues"
+  },
+  "homepage": "https://github.com/pverhaert/css_bootstrap_demo_project#readme",
   "scripts": {
     "watch": "cd src && live-server --port=6060"
   },
   "type": "module",
   "devDependencies": {
-
+    "live-server": ""
   }
 }
